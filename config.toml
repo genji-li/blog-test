@@ -1,4 +1,4 @@
-baseURL = 'https://github.com/genji-li/blog-test/tree/master/content/post'
+baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 
